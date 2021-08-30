@@ -35,7 +35,7 @@ export default Heading;
 And now, we can import this component in our JS/JSX files.
 
 ### Components in Real projects:
-Normally in the index.js of a lot of React apps we will have just a single custom component called <App /> .      
+Normally in the index.js of a lot of React apps we will have just a single custom component called `<App />` .      
 And inside a directory called components, we can find a custom file: App.jsx .       
 And in App.jsx all the import statements that would render our components:     
 
