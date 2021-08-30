@@ -59,3 +59,8 @@ export default App;
 This way our code is modular.     
 Each of these components can now be reused as and when we want to.     
 And these files are a lot shorter and a lot more manageable.     
+
+## What I have learned with this project:      
+* Make my code more modular: shorter, reusable and simpler
+* Conventions to separate and store React Components 
+* ES6 import / export functionality
